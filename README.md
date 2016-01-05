@@ -1,1 +1,2 @@
-# ¶Ô¹´ÍøµÄPHP»ù´¡¿ò¼Ü 
+å¯¹å‹¾ç½‘çš„PHPåŸºç¡€æ¡†æž¶EUI
+ECUI = Everyone can use it
